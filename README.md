@@ -4,4 +4,4 @@ Computational homework assignments and Jupyter notebook solutions.
 
 ## Contents
 
-- `Homework1_2026.ipynb`: Brachistochrone problem (cycloid position and velocity profiles) and symbolic derivations with SymPy.
+- `Homework1_2026.ipynb`: Brachistochrone cycloid trajectory, stationary path derivation with SymPy, bead on a rotating rod, and particle dynamics on a helical wire.
