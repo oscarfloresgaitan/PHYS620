@@ -8,3 +8,4 @@ Computational homework assignments and Jupyter notebook solutions.
 - `Homework2_2026.ipynb`: Modified Euler-Lagrange equations with friction, numerical simulation of a bead on a rotating hoop, and constrained yoyo dynamics using SymPy.
 - `Homework3_2026.ipynb`: Satellite orbit geometry and eccentricity, numerical solution to Kepler's equation and anomalies, synthetic RV modeling of 51 Pegasi b, and Lomb-Scargle periodogram analysis and Keplerian orbit fitting of Lick Observatory observations.
 - `Homework4_2026.ipynb`: Trajectory and instantaneous rest of a puck on a rotating turntable, surface deformation of water in a spinning bucket, and eastward Coriolis deflection of a ball dropped at the equator.
+- `Homework5_2026.ipynb`: Hamiltonian and bound motion for a mass on a cone (Taylor Example 13.4).
